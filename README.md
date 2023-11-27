@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/isaiah-lawrence-b499a418b/
