@@ -1,4 +1,4 @@
-h1> Hi I'm Isaiah an aspiring <a href="https://www.linkedin.com/in/isaiah-lawrence-b499a418b/">IT Professional</a>☺</h1>
+<h1> Hi I'm Isaiah an aspiring <a href="https://www.linkedin.com/in/isaiah-lawrence-b499a418b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
