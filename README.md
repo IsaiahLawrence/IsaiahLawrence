@@ -9,8 +9,9 @@
   - [ Creating A VM in Azure](https://github.com/IsaiahLawrence/CreateVmAzure)  
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/IsaiahLawrence/configure-ad)
  
-- <b>Cyber Security</b>
-  - 
+<h2>Cyber Security Concepts:</h2>
+
+  - [Linux and SQL](https://github.com/IsaiahLawrence/CyberSec)
   
 
 <h2>🤳Connect with me:</h2>
