@@ -6,6 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/IsaiahLawrence/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/IsaiahLawrence/post-install-config)
 - <b>Microsoft Azure</b>
+  - [ Creating A VM in Azure](https://github.com/IsaiahLawrence/CreateVmAzure)  
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/IsaiahLawrence/configure-ad)
   
 
